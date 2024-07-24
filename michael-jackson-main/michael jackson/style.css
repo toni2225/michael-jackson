@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(130, 89, 168);
+    color: rgb(0, 0, 0);
+}
+
+.contdown{
+    text-align: center;
+}
+
+#timer{
+    font-size: 2em;
+}
+
+#timer span{ 
+    display: inline-block;
+    min-height: 50px;
+}
+
+
+
